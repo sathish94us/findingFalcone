@@ -1,0 +1,86 @@
+.cl-home-conatiner {
+    height: 100vh;
+    margin: 10px;
+}
+
+.cl-perfect-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cl-paper {
+    margin: 10px;
+    padding: 10px;
+    min-width: 275px;
+}
+
+.MuiListItemText-root {
+    padding: 5px;
+}
+
+.MuiPaper-root {
+    padding: 5px;
+    background-color: #f1fdff;
+}
+
+.MuiPaper-outlined {
+    border: 1px solid #7f7fc2 !important;
+}
+
+.MuiRadio-colorSecondary.Mui-checked {
+    color: #f50057 !important;
+}
+
+
+fieldset {
+    border-color: #7f7fc2 !important;
+}
+
+.MuiFormControl-root {
+    width: 100%;
+    margin-top: 2px;
+}
+
+.cl-disabled {
+    pointer-events: none;
+    opacity: 0.5;
+}
+
+.cl-radio-group {
+    margin-top: 10px;;
+}
+
+.cl-title {
+    text-align: center;
+    font-size: x-large;
+}
+
+.cl-chip-group {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.cl-rem-chip {
+    display: flex;
+    flex-wrap: wrap;
+    font-weight: bold;
+}
+
+.cl-time-chip {
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+.cl-options-button {
+    float: right;
+    margin: 20px 0;
+}
+
+.cl-link {
+    text-decoration: none;
+    margin-left: 10px;
+}

@@ -1,0 +1,32 @@
+.cl-find-container {
+    height: 100vh;
+    margin: 10px;
+}
+
+.cl-perfect-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cl-paper {
+    margin: 10px;
+    padding: 10px;
+    min-width: 275px;
+}
+
+.cl-paper-bg {
+    background-color: #e1f0e1 !important;
+    text-align: center;
+}
+
+.cl-response-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h3 {
+    text-align: center;
+}
+
